@@ -71,7 +71,7 @@ Mobile-Sales-Dashboard/
 
 ## ✅ Features Demonstrated
 
-- Interactive slicers for Month, Brand, Model, City, and Payment Method
+- Interactive slicers for Month, Model, City, and Payment Method
 - Tree maps, line charts, bar charts, pie charts
 - KPI indicators for Total Sales, Quantity, and Transactions
 - Drill-down capabilities and dynamic visualizations
@@ -84,21 +84,6 @@ Mobile-Sales-Dashboard/
 - Business performance dashboards for mobile retailers
 - Sales strategy and marketing analysis
 - Customer experience and product feedback visualization
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**. Feel free to use, modify, or share it.
-
----
-
-## 🙋‍♂️ About Me
-
-I'm a data analyst with experience in Power BI, SQL, and data storytelling. Connect with me:
-
-- 🔗 [LinkedIn](https://www.linkedin.com/)
-- 🧑‍💻 [GitHub Portfolio](https://github.com/yourusername)
 
 ---
 
