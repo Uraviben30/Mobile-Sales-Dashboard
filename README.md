@@ -57,7 +57,7 @@ Mobile-Sales-Dashboard/
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Preview]()
+![Dashboard Preview](dashboard-preview.PNG)
 
 ---
 
