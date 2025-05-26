@@ -55,12 +55,6 @@ Mobile-Sales-Dashboard/
 
 ---
 
-## 🖼️ Dashboard Preview
-
-![Dashboard Preview](Images/dashboard-preview.png)
-
----
-
 ## 🚀 How to Use This Project
 
 1. Clone this repository or download it as a ZIP.
