@@ -14,7 +14,7 @@ This Power BI dashboard provides a comprehensive analysis of mobile phone sales 
 - **Top Mobile Models:** Oppo A54, Moto G60, OnePlus Nord
 - **Customer Ratings:** Majority rated 3–5 stars
 - **Preferred Payment Methods:** UPI, Debit Card, Net Banking
-- **Sales Trends:** Analyzed by month and day of the week
+- **Sales Trends:** Analyzed by month and day of the week 
 
 ---
 
@@ -52,6 +52,12 @@ Mobile-Sales-Dashboard/
 ├── README.md                         # Project Documentation
 └── .gitignore                        # Ignore System/Temp Files
 ```
+
+---
+
+## 🖼️ Dashboard Preview
+
+![Dashboard Preview]()
 
 ---
 
