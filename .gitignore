@@ -1,0 +1,20 @@
+# Ignore temporary and system files
+*.tmp
+*.bak
+*.log
+*.cache
+.DS_Store
+Thumbs.db
+
+# Ignore zipped or compressed files
+*.zip
+*.rar
+*.7z
+
+# Ignore Power BI auto-recovery files (if any)
+*.pbix.autoSave
+
+# VS Code or editor specific
+.vscode/
+.idea/
+*.swp
