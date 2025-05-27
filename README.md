@@ -38,23 +38,6 @@ This Power BI dashboard provides a comprehensive analysis of mobile phone sales 
 
 ---
 
-## 📁 Project Folder Structure
-
-```
-Mobile-Sales-Dashboard/
-│
-├── Images/
-│   └── dashboard-preview.png         # Dashboard Screenshot
-│
-├── PBIX/
-│   └── Mobile_Sales_Dashboard.pbix   # Power BI File
-│
-├── README.md                         # Project Documentation
-└── .gitignore                        # Ignore System/Temp Files
-```
-
----
-
 ## 🖼️ Dashboard Preview
 
 ![Dashboard Preview](dashboard-preview.PNG)
